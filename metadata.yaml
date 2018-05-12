@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36699
     wikipedia: http://pt.wikipedia.org/wiki/Joaquim_Carlos_Paiva_de_Andrada
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34040#Relatorio-de-uma-viagem--s-terras-do-Changamira
 gutenberg_bookshelf:
 - PT História
 - PT Navegações e Explorações
