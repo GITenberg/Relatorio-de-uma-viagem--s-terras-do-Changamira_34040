@@ -1,0 +1,32 @@
+_repo: Relatorio-de-uma-viagem--s-terras-do-Changamira_34040
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Paiva de Andrada, Joaquim Carlos
+    alias: Andrada, Joaquim Carlos Paiva de
+    birthdate: 1846
+    deathdate: 1928
+    gutenberg_agent_id: '36699'
+    url: http://www.gutenberg.org/2009/agents/36699
+    wikipedia: http://pt.wikipedia.org/wiki/Joaquim_Carlos_Paiva_de_Andrada
+description: ''
+gutenberg_bookshelf:
+- PT História
+- PT Navegações e Explorações
+gutenberg_issued: '2010-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34040'
+  lccn: 09005059
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Africa, East -- Description and travel'
+- !lcc 'DT'
+title: Relatorio de uma viagem ás terras do Changamira
+url: http://www.gutenberg.org/ebooks/34040
